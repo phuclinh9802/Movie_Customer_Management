@@ -1,0 +1,2 @@
+C:\Users\philip\source\repos\Movie\Movie\obj\Debug\Movie.csprojAssemblyReference.cache
+C:\Users\philip\source\repos\Movie\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
